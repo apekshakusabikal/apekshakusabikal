@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Apeksha 👋
+
+🎓 Electrical Engineering Student (1st Year)  
+💻 Currently learning C and Data Structures  
+🚀 Aspiring Software Developer  
+📍 India  
+
+## 🔥 Skills
+- Basic C
+- Problem Solving
+- Git & GitHub
+
+## 📌 Goals
+- Master Data Structures
+- Build Strong Projects
+- Crack Dream Company
 
 <!--
 **apekshakusabikal/apekshakusabikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
