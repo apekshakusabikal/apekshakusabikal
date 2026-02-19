@@ -10,6 +10,12 @@
 - Problem Solving
 - Git & GitHub
 
+- ## 🌐 Connect with me
+
+- 💼 LinkedIn: www.linkedin.com/in/apeksha-kusabikal-a217653b0
+- 💻 LeetCode: 
+- 📧 Email: yourmail@gmail.com
+
 ## 📌 Goals
 - Master Data Structures
 - Build Strong Projects
