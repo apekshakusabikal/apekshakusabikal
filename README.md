@@ -14,7 +14,7 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/apeksha-kusabikal-a217653b0
 - 💻 LeetCode: 
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: apekshakusabikal@gmail.com
 
 ## 📌 Goals
 - Master Data Structures
